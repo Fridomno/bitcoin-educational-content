@@ -1,6 +1,6 @@
 ---
-name: Obținerea primelor tale bitcoin
-goal: Obținerea primelor tale bitcoin și stocarea lor în siguranță într-un portofel Bitcoin folosind o frază mnemonică și un plan de moștenire.
+name: Obținerea primilor tăi bitcoini
+goal: Obținerea primilor tăi bitcoini și stocarea lor în siguranță într-un portofel Bitcoin folosind o frază mnemonică și un plan de moștenire.
 objectives:
   - Actualizează-ți securitatea online
   - Înțelege conceptele cheie legate de Bitcoin
@@ -9,11 +9,11 @@ objectives:
   - Stabilește un plan de moștenire
 ---
 
-# O călătorie către primele tale bitcoin
+# O călătorie către primi tăi bitcoini
 
 Industria din jurul Bitcoinului este în plină expansiune.
 
-Schimbările tehnologice și financiare din această lume nouă se accelerează doar, și ține de tine să profiți și să începi să explorezi Gaura de Iepure a Bitcoinului. Această aventură va fi bogată în cunoștințe și te va împinge să îți pui la îndoială multe dintre convingerile tale. Îți va reda libertatea și îți va permite să recâștigi intimitatea, suveranitatea și independența financiară.
+Schimbările tehnologice și financiare din această nouă lume nu fac decât să se accelereze, și ține de tine să profiți și să începi să explorezi Gaura de Iepure a Bitcoinului. Această aventură va fi bogată în cunoștințe și te va împinge să îți pui la îndoială multe dintre convingerile tale. Îți va reda libertatea și va permite să îți recâștigi intimitatea, suveranitatea și independența financiară.
 
 Pentru a te ajuta să începi această aventură, am creat acest curs gratuit. Doar Bitcoin, fără nonsensuri, fără alte criptomonede, un curs direct la obiect. Acest curs a fost conceput pentru a se adapta ție și pentru a te lăsa să alegi calea care ți se potrivește.
 
@@ -22,14 +22,14 @@ Pentru a te ajuta să începi această aventură, am creat acest curs gratuit. D
 # Introducere și prerechizite pentru a înțelege Bitcoin
 <partId>008c49b7-5e17-5973-87f2-ba28429b2697</partId>
 
-## Introducere în cursul BTC102
+## Introducere la cursul BTC102
 <chapterId>bfc96999-0ee1-5c41-8297-1b629f50cffc</chapterId>
 
-Bine ai venit la BTC 102! Un curs practic care te va ghida în stabilirea planului tău Bitcoin! Prin acest curs, ne vom pregăti să obținem primele noastre bitcoin, să le securizăm corespunzător și să asigurăm o intrare lină în această industrie nouă.
+Bine ai venit la BTC 102! Un curs practic care te va ghida în stabilirea planului tău Bitcoin! Prin acest curs, ne vom pregăti să obținem primi noștri bitcoini, să-i securizăm corespunzător și să asigurăm o intrare lină în această nouă industrie.
 
 Industria Bitcoin este încă tânără și considerată un fenomen în continuă evoluție. În ciuda multor ani de încercări de a reglementa această piață, rămâne extrem de liberă datorită naturii protocolului său de bază.
 
-Pentru că nu poate fi reglementat în totalitate, Bitcoin a putut să crească organic și descentralizat de peste 14 ani. Prin urmare, este o industrie în plină explozie embrionară și este dornică să continue să crească.
+Pentru că nu poate fi reglementat în totalitate, Bitcoin a putut să crească organic și descentralizat timp de peste 14 ani. Prin urmare, este o industrie în plină explozie embrionară și este dornică să continue să crească.
 
 Cu o explozie de inovații și posibilități vin și înșelătoriile, fraudele și riscurile. Este de la sine înțeles că călătoria ta în Bitcoin nu va fi fără obstacole sau greșeli. Cu toate acestea, pentru a te ajuta să le eviți pe cât posibil, acest curs va servi ca un ghid practic pentru a începe. Pe de altă parte, cursul BTC 101 este mai teoretic pentru a înțelege cum funcționează Bitcoin.
 
@@ -37,7 +37,7 @@ Cu o explozie de inovații și posibilități vin și înșelătoriile, fraudele
 
 - Revizuirea noțiunilor de bază și a prerechizitelor pentru a ne asigura că nu suntem înșelați sau că nu ne pierdem banii în mod prostesc.
 - Revizuirea fundamentală a motivului pentru care Bitcoin este important și înțelegerea industriei sale. Acest lucru ne va întări convingerile și ne va ajuta să înțelegem în ce ne angajăm.
-- Înființarea primului tău portofel Bitcoin și efectuarea primei achiziții de Bitcoin prin intermediul unei platforme de schimb. Aici, vom căuta soluția cea mai potrivită pentru nevoile tale. În final, ultima secțiune va aborda un concept fundamental pentru securitatea ta, dar care este prea des neglijat în industrie: cum să creezi un plan de moștenire Bitcoin.
+- Înființarea primului tău portofel Bitcoin și efectuarea primei achiziții de Bitcoin prin intermediul unui exchange. Aici, vom căuta soluția cea mai potrivită pentru nevoile tale. În final, ultima secțiune va aborda un concept fundamental pentru securitatea ta, dar care este prea des neglijat în industrie: cum să creezi un plan de moștenire Bitcoin.
 
 După cum poți vedea, scopul acestui antrenament este să te însoțească astfel încât să aderi de la început la cele mai bune practici ale industriei noastre, într-un mod simplu și rapid!
 
@@ -61,23 +61,23 @@ Domeniul criptomonedelor, inclusiv Bitcoin, rămâne relativ tânăr și puțin 
 - Deviație / Hard Fork
 - Hack-uri
 - Ransom fals
-- Escrocherii cu parola
+- Înșelăciuni cu parole
 - Hijacking de cartele SIM
 
 ![scam](assets/prerequis/6.webp)
 
-În domeniul investițiilor financiare, sistemele de vânzare în piramidă și schemele Ponzi se remarcă ca modele ilegale. Funcționează folosind banii investitorilor noi pentru a plăti participanților mai vechi. Cu toate acestea, natura lor nesustenabilă și dependența de sosirea noilor participanți pentru a menține sistemul în funcțiune le fac susceptibile de a se prăbuși inevitabil.
+În domeniul investițiilor financiare, sistemele de vânzare piramidale și schemele Ponzi se remarcă ca modele ilegale. Acestea funcționează prin utilizarea banilor noilor investitori pentru a plăti participanți mai vechi. Cu toate acestea, natura lor nesustenabilă și dependența de sosirea noilor participanți pentru a menține sistemul în funcțiune le fac susceptibile de a se prăbuși inevitabil.
 
-![ponzi scheme](assets/prerequis/7.webp)
+![scheme ponzi](assets/prerequis/7.webp)
 
-Aceste sisteme sunt adesea caracterizate de elemente dubioase, cum ar fi absența valorii intrinseci, promisiunile de randamente nerealiste și tactici de marketing care încurajează recomandările pentru a atrage noi investitori. Întârzierile incompresibile ale retragerilor și utilizarea profilurilor false pe rețelele sociale pentru promovare sunt, de asemenea, semne revelatoare ale acestor escrocherii. Având în vedere natura lor ilegală și imorală și riscul financiar pe care îl reprezintă, este esențial să le evitați.
+Aceste sisteme sunt adesea caracterizate de elemente dubioase, cum ar fi absența valorii intrinseci, promisiuni de randamente nerealiste și tactici de marketing care încurajează recomandările pentru a atrage noi investitori. Întârzierile incompresibile ale retragerilor și utilizarea de profiluri false pe rețelele de socializare pentru promovare sunt, de asemenea, semne revelatoare ale acestor escrocherii. Având în vedere natura lor ilegală și imorală și riscul financiar pe care îl reprezintă, este esențial să le evitați.
 În cele din urmă, aceste sisteme sunt sortite eșecului. Cu timpul, cerința pentru un număr tot mai mare de participanți noi pentru a menține sistemul în loc devine insurmontabilă. Când se ajunge la acest punct, iluzia se disipă, sistemul se prăbușește și investitorii adesea se găsesc fără mijloace de a-și recupera investiția.
 
-Schemele Ponzi se pot manifesta în diverse moduri. Uneori, sunt deghizate ca oferte noi de tokenuri sau Oferte Inițiale de Monede (ICO), combinații de contracte inteligente, încercări de a monopoliza moneda fiat sau chiar programe de marketing fără niciun produs real. Cu toate acestea, o investigație amănunțită și o diligenta datorată dezvăluie că aceste sisteme nu creează nicio valoare reală. Ele redistribuie pur și simplu banii de la noii veniți pentru a plăti participanții mai vechi.
+Schemele Ponzi se pot manifesta în diverse moduri. Uneori, sunt deghizate ca oferte noi de tokenuri sau Oferte Inițiale de Monede (ICO), combinații de smart contracts, încercări de a monopoliza moneda fiat sau chiar programe de marketing fără niciun produs real. Cu toate acestea, o investigație amănunțită și dezvăluie că aceste sisteme nu creează nicio valoare reală. Ele redistribuie pur și simplu banii de la noii veniți pentru a plăti participanții mai vechi.
 
-Recent, lumea criptomonedelor a văzut o undă de proiecte legate de Finanțe Decentralizate (DeFi) care merită o atenție specială. Unele dintre aceste proiecte pot recurge la o combinație de criptomonede de calitate scăzută, contracte inteligente și sisteme de rate ale dobânzii pentru a oferi soluții financiare aparent miraculoase. Este esențial să exerciți prudență și diligenta datorată în fața acestor oferte extrem de înșelătoare.
+Recent, lumea criptomonedelor a văzut un val de proiecte legate de Finanțe Decentralizate (DeFi) care merită o atenție specială. Unele dintre aceste proiecte pot recurge la o combinație de criptomonede de calitate scăzută, smart contracts și sisteme de rate ale dobânzii pentru a oferi soluții financiare aparent miraculoase. Este esențial să exerciți prudență și diligenta în fața acestor oferte extrem de înșelătoare.
 
-Trebuie menționat că conținutul acestui curs este destinat în scopuri pur educative și nu trebuie interpretat ca sfat financiar. Exortația de a "avea încredere, dar verifica" rămâne un îndrumar important. Este esențial pentru toată lumea să își facă propria cercetare și să ia decizii financiare informate.
+Trebuie menționat: conținutul acestui curs este destinat în scopuri pur educative și nu trebuie interpretat ca sfat financiar. Exortația de a "avea încredere, dar verifica" rămâne un îndrumar important. Este esențial pentru toată lumea să își facă propria cercetare și să ia decizii financiare informate.
 
 Pump and Dump (P&D) este o formă notorie de manipulare financiară care poate provoca perturbări semnificative pe piețe. Este caracterizată de un atac coordonat menit să crească artificial prețul unui activ prin diverse mecanisme, cum ar fi marketingul agresiv, utilizarea algoritmilor sau a inteligenței artificiale. Scopul este apoi de a vinde aceste active supraevaluate pentru a obține profit.
 
