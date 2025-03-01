@@ -29,11 +29,11 @@ Du trenger ingen spesielle forkunnskaper for å komme i gang. Det følgende innh
 
 Bitcoin er en teknologisk og monetær revolusjon som kan få oss til å stille spørsmål ved vårt forhold til penger og samfunnet. Faktisk er Bitcoin (omtalt som BTC) en **nøytral** og **desentralisert** valuta, noe som betyr at den ikke kontrolleres av noen enhet eller institusjon. Det er en innovasjon som går lenger enn bare en "internettvaluta": Det er både en dataprotokoll (Bitcoin) og en pengeenhet (bitcoin).
 
-Protokollen bruker underliggende teknologier som kryptografi, nettverkskommunikasjon og den berømte "blokkjeden", mens bitcoin-enheten fungerer som den nødvendige valutaen for at protokollen skal fungere som den skal. I hverdagen bruker salvadoranere og bitcoinere over hele verden bitcoin-valutaen til å kjøpe og selge varer og tjenester, og de er avhengige av denne teknologien for å gjøre livene sine bedre.
+Protokollen bruker underliggende teknologier som kryptografi, nettverkskommunikasjon og den berømte "blokkjeden", mens bitcoin-enheten fungerer som den nødvendige valutaen for at protokollen skal fungere som den skal. I hverdagen bruker salvadoranere og bitcoinere over hele verden bitcoin-valutaen til å kjøpe og selge varer og tjenester og de er avhengige av denne teknologien for å gjøre livene sine bedre.
 
 ### Et omfattende, men likevel tilgjengelig pensum
 
-I dette kurset tar vi for oss noen av de monetære aspektene ved Bitcoin, blant annet hvordan man kjøper og selger bitcoins, lagrer dem sikkert i digitale lommebøker og bruker dem til transaksjoner. Vi skal også se nærmere på utvinnernes rolle, som er avgjørende for å skape nye bitcoins og sikre Bitcoin-nettverket. Til slutt utforsker vi Bitcoins fremtid og hvordan Lightning Network-teknologien kan forbedre Bitcoin-transaksjoner.
+I dette kurset tar vi for oss noen av de monetære aspektene ved Bitcoin, blant annet hvordan man kjøper og selger bitcoins, lagrer dem sikkert i digitale lommebøker og bruker dem til transaksjoner. Vi skal også se nærmere på gruvearbeidernes rolle, som er avgjørende for å skape nye bitcoins og sikre Bitcoin-nettverket. Til slutt utforsker vi Bitcoins fremtid og hvordan Lightning Network-teknologien kan forbedre Bitcoin-transaksjoner.
 
 ![image](assets/en/01.webp)
 
@@ -106,7 +106,7 @@ Cypherpunk-bevegelsen, som har dype røtter i digital aktivisme og kryptografi, 
 
 - Det kryptoanarkistiske manifestet:
 
-skrevet av Timothy C. May i 1992, forklarer dette dokumentet hvordan bruken av kryptografi kan føre til en æra med kryptografisk anarki der myndighetene vil være maktesløse når det gjelder å blande seg inn i borgernes private anliggender. May så for seg en fremtid der folk anonymt kunne utveksle informasjon og penger uten innblanding fra en tredjepart.
+skrevet av Timothy C. May i 1992, forklarer dette dokumentet hvordan bruken av kryptografi kan føre til en æra med kryptografisk anarki der myndighetene vil være maktesløse når det gjelder å blande seg inn i borgernes privatliv. May så for seg en fremtid der folk anonymt kunne utveksle informasjon og penger uten innblanding fra en tredjepart.
 
 - "Uavhengighetserklæringen for cyberspace":
 
@@ -220,7 +220,7 @@ En forvaltningsvaluta er en form for penger som er bestemt som sådan av en inst
 
 ### Monetær devaluering: en strategi like gammel som Romerriket
 
-Siden antikken har gull fungert som en monetær referanse, men gullets stivhet har ofte ført til at ledere, både romerske keisere og moderne regjeringer, har tatt i bruk alternative valutaer, ofte fiduciære.
+Siden antikken har gull fungert som en monetær referanse, men gullets hardhet har ofte ført til at ledere, både romerske keisere og moderne regjeringer, har tatt i bruk alternative valutaer, ofte fiat-penger.
 
 Mekanismen er enkel og inspirert av praksis som har eksistert siden sivilisasjonens opprinnelse. Ledere, som er ivrige etter å utøve kontroll over rikdommen, begynner med å sentralisere gull, ofte ved å utnytte sin makt og love beskyttelse og sikkerhet. Med denne dyrebare reserven i sine hender innfører de en ny valuta, som har samme verdi som gull, men som er preget i deres skikkelse. Denne valutaen begynner så å sirkulere, og folk tilpasser seg raskt den enkle bruken av den.
 
@@ -228,7 +228,7 @@ Men så begynner disse lederne å devaluere den nye valutaen gradvis, og de fact
 
 ![image](assets/en/13.webp)
 
-I et kritisk øyeblikk kommer lederen med kunngjøringen: Valutaen er ikke lenger støttet av gull. Befolkningen, som nå er vant til den fiduciære valutaen og ofte er feilinformert om økonomiske forhold, aksepterer denne realiteten, slik at staten fritt kan manipulere pengemengden og trykke enorme pengesummer nesten uten kostnader.
+I et kritisk øyeblikk kommer lederen med kunngjøringen: Valutaen er ikke lenger støttet av gull. Befolkningen, som nå er vant til den fiat-valutaen og ofte er feilinformert om økonomiske forhold, aksepterer denne realiteten, slik at staten fritt kan manipulere pengemengden og trykke enorme pengesummer nesten uten kostnader.
 
 Pengetrykking fører da til inflasjon og gradvis utarming av befolkningen. Dessuten er finanssystemet regulert og begrenset for å unngå at det kollapser, siden enhver forstyrrelse kan utløse en større økonomisk krise. I motsetning til massene er det finansinstitusjonene og de velstående enkeltpersonene som tjener mest på dette systemet, noe som skaper ulikhet og favoriserer autoritære regimer. I denne konteksten har de ikke insentiver til å gjøre radikale endringer, noe som gjør at systemet kan fortsette sin kurs frem til en eventuell implosjon.
 
