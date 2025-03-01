@@ -67,7 +67,7 @@ Det er viktig å forstå at Bitcoin er et nytt pengesystem som fullstendig endre
 - Kapittel 15 - Å jobbe for Bitcoin
 - Kapittel 16 - Hyper-bitcoinisering
 
-**Avsnitt 5 - Lynnettverk**
+**Avsnitt 5 - Lightning Nettverk**
 
 - Kapittel 17 - Introduksjon til Lightning Network
 - Kapittel 18 - Bruksområder for Lightning Network
@@ -1199,7 +1199,7 @@ Hvis du ønsker å utvide kunnskapen din om Bitcoin, er dette det rette tidspunk
 
 > "Jeg tror at Internett kommer til å bli en av de viktigste drivkreftene for å redusere myndighetenes rolle. Det eneste som mangler, men som snart vil bli utviklet, er en pålitelig e-kontant - en metode der du på Internett kan overføre penger fra A til B uten at A kjenner B eller B kjenner A." - Milton Friedmans spådom i 1999
 
-# Bitcoins fremtid: Lynnettverket
+# Bitcoins fremtid: Lightning Network
 
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
 
